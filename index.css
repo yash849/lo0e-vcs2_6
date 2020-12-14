@@ -67,6 +67,15 @@ h1 {
     box-shadow: 5px 10px 35px 10px #f53896;
   }
 }
+
+#snow {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
 .line {
   text-align: center;
 }
