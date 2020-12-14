@@ -69,6 +69,9 @@ h1 {
 .line {
   text-align: center;
 }
+.line.invisible {
+  display: none;
+}
 .line li {
   position: relative;
   margin: 0 15px;
